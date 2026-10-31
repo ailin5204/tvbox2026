@@ -47,9 +47,9 @@
     },
     {
       "key": "py_19802170",
-      "name": "影探4K(本地)",
+      "name": "影探4K(网络)",
       "type": 3,
-      "api": "file:///sdcard/TVBox_Local/影探.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/yingtan.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
