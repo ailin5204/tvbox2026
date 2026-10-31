@@ -1,19 +1,19 @@
 {
   "sites": [
     {
-      "key": "py_4k_gulu",
-      "name": "4K丨咕噜",
+      "key": "py_44990320",
+      "name": "咕噜咕噜4K",
       "type": 3,
-      "api": "file:///sdcard/TVBox_Local/[4K]咕噜.py",
+      "api": "file:///sdcard/TVBox_Local/咕噜咕噜4K.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "py_44990320",
-      "name": "咕噜咕噜4K",
+      "key": "py_4k_gulu",
+      "name": "4K丨咕噜",
       "type": 3,
-      "api": "file:///sdcard/TVBox_Local/咕噜咕噜4K.py",
+      "api": "file:///sdcard/TVBox_Local/[4K]咕噜.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
