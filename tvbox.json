@@ -1,10 +1,10 @@
 {
   "sites": [
     {
-      "key": "py_4k_gulu",
-      "name": "4K丨咕噜",
+      "key": "py_4k_piandi",
+      "name": "4K丨片帝",
       "type": 3,
-      "api": "file:///sdcard/TVBox_Local/[4K]咕噜.py",
+      "api": "file:///sdcard/TVBox_Local/[4K]片帝.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -55,10 +55,10 @@
       "filterable": 1
     },
     {
-      "key": "py_4k_piandi",
-      "name": "4K丨片帝",
+      "key": "py_4k_gulu",
+      "name": "4K丨咕噜",
       "type": 3,
-      "api": "file:///sdcard/TVBox_Local/[4K]片帝.py",
+      "api": "file:///sdcard/TVBox_Local/[4K]咕噜.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
