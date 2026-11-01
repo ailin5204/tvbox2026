@@ -206,24 +206,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "py_3c6b2d9b",
-      "name": "ᵀ⁴大马猴",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/t4damahou.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_d562715f",
-      "name": "ᵀ⁴片帝4K",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/t4piandi.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     }
   ],
   "warningText": "仅供学习",
