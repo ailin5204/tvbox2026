@@ -1,22 +1,4 @@
 # -*- coding: utf-8 -*-
-import sys
-import ssl
-
-# 1. 强制 UTF-8 编码，防中文报错
-if sys.version_info[0] >= 3:
-    try:
-        sys.stdout.reconfigure(encoding='utf-8')
-        sys.stderr.reconfigure(encoding='utf-8')
-    except Exception:
-        pass
-
-# 2. 忽略 SSL 证书校验，防电视系统证书过期导致网络请求失败
-try:
-    ssl._create_default_https_context = ssl._create_unverified_context
-except Exception:
-    pass
-
-# ----------------- 兼容补丁结束 -----------------
 # 推特APP T4 检修版（就地修复自原稿 368 行，getName 推特APP）
 # 保留原稿核心机制：token 域名每次随机生成 https://<随机5-10位>.<hs>.work，
 # hs 池 wcyfhknomg / pdcqllfomw / alxhzjvean / bqeaaxzplt / hfbtpixjso，
