@@ -884,7 +884,13 @@ class Spider:
                 play_from.append(self._clean_name(source["name"]))
                 play_blocks.append("#".join(episodes))
         paired = list(zip(play_from, play_blocks))
-        paired.sort(key=lambda x: self._rank(x[0]))
+        # 自定义排序：带“咕噜”的线路优先级最高，排在最前面
+        def custom_rank(item):
+            name = item[0]
+            if "咕噜" in name:
+                return (-1, self._rank(name))
+            return (0, self._rank(name))
+        paired.sort(key=custom_rank)
 
         vod = {
             "vod_id": detail["id"],
