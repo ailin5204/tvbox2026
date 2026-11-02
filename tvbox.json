@@ -4,7 +4,7 @@
       "key": "py_75",
       "name": "[4K]片帝",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/ailin5204/tvbox2026/main/new_75.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/py_new_7.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -13,7 +13,7 @@
       "key": "py_74",
       "name": "[4K]河豚",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/ailin5204/tvbox2026/main/new_74.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/py_new_6.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -22,7 +22,7 @@
       "key": "py_73",
       "name": "[4K]枫叶",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/ailin5204/tvbox2026/main/new_73.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/py_new_5.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -31,7 +31,7 @@
       "key": "py_72",
       "name": "[4K]影探",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/ailin5204/tvbox2026/main/new_72.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/py_new_4.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -40,7 +40,7 @@
       "key": "py_71",
       "name": "[4K]咕噜",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/ailin5204/tvbox2026/main/new_71.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/py_new_3.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -49,7 +49,7 @@
       "key": "py_70",
       "name": "[4K]云播",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/ailin5204/tvbox2026/main/new_70.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/py_new_2.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -58,7 +58,7 @@
       "key": "py_69",
       "name": "[4K]下饭",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/ailin5204/tvbox2026/main/new_69.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/py_new_1.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -391,7 +391,7 @@
       "key": "py_32",
       "name": "搬运岛",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/ailin5204/tvbox2026/main/new_32.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/banyundao.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -418,7 +418,7 @@
       "key": "py_29",
       "name": "巨量",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/ailin5204/tvbox2026/main/new_29.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/juliang.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -607,7 +607,7 @@
       "key": "py_8",
       "name": "Sparkle里面的山楂",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/ailin5204/tvbox2026/main/new_8.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/sparkle.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -661,7 +661,7 @@
       "key": "py_2",
       "name": "4K影视",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/ailin5204/tvbox2026/main/new_2.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/py_new_0.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -787,7 +787,7 @@
       "key": "py_60bfabbe",
       "name": "ᵀ⁴TT",
       "type": 3,
-      "api": "file:///sdcard/Download/1101py单源/ᵀ⁴TT.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/t4tt.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
