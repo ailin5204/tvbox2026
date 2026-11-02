@@ -4,7 +4,7 @@
       "key": "py_44990320",
       "name": "咕噜咕噜4K",
       "type": 3,
-      "api": "file:///sdcard/TVBox_Local/咕噜咕噜4K.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/4K_14e410.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -13,7 +13,7 @@
       "key": "py_4k_gulu",
       "name": "4K丨咕噜",
       "type": 3,
-      "api": "file:///sdcard/TVBox_Local/[4K]咕噜.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/4K_6a17aa.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -22,7 +22,7 @@
       "key": "py_4k_piandi",
       "name": "4K丨片帝",
       "type": 3,
-      "api": "file:///sdcard/TVBox_Local/[4K]片帝.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/4K_265ab1.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -31,7 +31,7 @@
       "key": "py_4k_hetun",
       "name": "4K丨河豚",
       "type": 3,
-      "api": "file:///sdcard/TVBox_Local/[4K]河豚.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/4K_702dca.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -40,7 +40,7 @@
       "key": "py_4k_xiafan",
       "name": "4K丨下饭",
       "type": 3,
-      "api": "file:///sdcard/TVBox_Local/[4K]下饭.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/4K_43d86d.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -58,7 +58,7 @@
       "key": "py_4k_fengye",
       "name": "4K丨枫叶",
       "type": 3,
-      "api": "file:///sdcard/TVBox_Local/[4K]枫叶.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/4K_b26d0a.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -67,7 +67,7 @@
       "key": "py_44063221",
       "name": "Sparkle里面的山楂",
       "type": 3,
-      "api": "file:///sdcard/TVBox_Local/Sparkle里面的山楂.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/Sparkle_852542.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -76,7 +76,7 @@
       "key": "py_20896803",
       "name": "巨量",
       "type": 3,
-      "api": "file:///sdcard/TVBox_Local/巨量.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/py_b7d321.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -85,7 +85,7 @@
       "key": "py_23080907",
       "name": "搬运岛",
       "type": 3,
-      "api": "file:///sdcard/TVBox_Local/搬运岛.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/py_5ad9f6.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -94,7 +94,7 @@
       "key": "py_21163548",
       "name": "真狼影视",
       "type": 3,
-      "api": "file:///sdcard/TVBox_Local/真狼影视.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/py_99cc5f.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -202,7 +202,7 @@
       "key": "py_60bfabbe",
       "name": "ᵀ⁴TT",
       "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/t4tt.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/TT_60bfab.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
