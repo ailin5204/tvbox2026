@@ -4,7 +4,7 @@
       "key": "py_44990320",
       "name": "咕噜咕噜4K",
       "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%E5%92%95%E5%99%9C%E5%92%95%E5%99%9C4K.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/glgl4k.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -13,7 +13,7 @@
       "key": "py_4k_gulu",
       "name": "4K丨咕噜",
       "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%5B4K%5D%E5%92%95%E5%99%9C.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/4kgl.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -22,7 +22,7 @@
       "key": "py_4k_piandi",
       "name": "4K丨片帝",
       "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%5B4K%5D%E7%89%87%E5%B8%9D.py",
+      "api": "file:///sdcard/TVBox_Local/[4K]片帝.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -31,7 +31,7 @@
       "key": "py_4k_hetun",
       "name": "4K丨河豚",
       "type": 3,
-      "api": "file:///sdcard/TVBox_Local/[4K]河豚.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/4kht.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -40,7 +40,7 @@
       "key": "py_4k_xiafan",
       "name": "4K丨下饭",
       "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%5B4K%5D%E4%B8%8B%E9%A5%AD.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/4kxf.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -58,7 +58,7 @@
       "key": "py_4k_fengye",
       "name": "4K丨枫叶",
       "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%5B4K%5D%E6%9E%AB%E5%8F%B6.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/4kfy.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -67,7 +67,7 @@
       "key": "py_44063221",
       "name": "Sparkle里面的山楂",
       "type": 3,
-      "api": "file:///sdcard/TVBox_Local/Sparkle里面的山楂.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/sparkle.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -76,7 +76,7 @@
       "key": "py_20896803",
       "name": "巨量",
       "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%E5%B7%A8%E9%87%8F.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/juliang.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -85,7 +85,7 @@
       "key": "py_23080907",
       "name": "搬运岛",
       "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%E6%90%AC%E8%BF%90%E5%B2%9B.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/banyundao.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -94,7 +94,7 @@
       "key": "py_21163548",
       "name": "真狼影视",
       "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%E7%9C%9F%E7%8B%BC%E5%BD%B1%E8%A7%86.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/zhenlang.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -202,7 +202,7 @@
       "key": "py_60bfabbe",
       "name": "ᵀ⁴TT",
       "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%E1%B5%80%E2%81%B4TT.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/t4tt.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
