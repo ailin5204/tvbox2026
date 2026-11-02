@@ -73,15 +73,6 @@
       "filterable": 1
     },
     {
-      "key": "py_77",
-      "name": "ᵀ⁴TT",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_77.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "lzi",
       "name": "量子资源",
       "type": 1,
@@ -572,6 +563,15 @@
       "name": "黑夜影院",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_68.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_77",
+      "name": "ᵀ⁴TT",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_77.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
