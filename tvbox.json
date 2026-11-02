@@ -1,15 +1,6 @@
 {
   "sites": [
     {
-      "key": "py_2",
-      "name": "4K影视",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_2.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "py_70",
       "name": "[4K]下饭",
       "type": 3,
@@ -68,6 +59,15 @@
       "name": "[4K]片帝",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_76.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_2",
+      "name": "4K影视",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_2.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
