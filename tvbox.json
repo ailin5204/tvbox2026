@@ -28,10 +28,28 @@
       "filterable": 1
     },
     {
+      "key": "py_2",
+      "name": "4K影视",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "py_70",
       "name": "[4K]下饭",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_70.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_71",
+      "name": "[4K]云播",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_71.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -50,24 +68,6 @@
       "name": "[4K]枫叶",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_74.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_2",
-      "name": "4K影视",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_2.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_71",
-      "name": "[4K]云播",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_71.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -577,5 +577,5 @@
       "filterable": 1
     }
   ],
-  "warningText": "极简优化版：4K置顶，过滤了冗余短剧/音乐源"
+  "warningText": "网络收集，仅供学习测试"
 }
