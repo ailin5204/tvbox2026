@@ -1,22 +1,4 @@
 # -*- coding: utf-8 -*-
-import sys
-import ssl
-
-# 1. 强制 UTF-8 编码，防中文报错
-if sys.version_info[0] >= 3:
-    try:
-        sys.stdout.reconfigure(encoding='utf-8')
-        sys.stderr.reconfigure(encoding='utf-8')
-    except Exception:
-        pass
-
-# 2. 忽略 SSL 证书校验，防电视系统证书过期导致网络请求失败
-try:
-    ssl._create_default_https_context = ssl._create_unverified_context
-except Exception:
-    pass
-
-# ----------------- 兼容补丁结束 -----------------
 # 懂片帝 - TVBox / 追剧影视 通用 Python 爬虫
 # 站点：https://dongpian17.com
 # 接口：/v1/* REST API（HMAC-SHA256 请求签名，换行分隔）
