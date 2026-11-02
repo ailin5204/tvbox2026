@@ -22,7 +22,7 @@
       "key": "py_4k_piandi",
       "name": "4K丨片帝",
       "type": 3,
-      "api": "file:///sdcard/TVBox_Local/[4K]片帝.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/4kpd.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
