@@ -1,17 +1,665 @@
 {
   "sites": [
     {
-      "key": "py_0",
-      "name": "1905影院",
+      "key": "retry_1793592904_MF",
+      "name": "retry_1793592904_MF",
       "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_0.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/retry_1793592904_MF.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "py_1",
-      "name": "4567影视",
+      "key": "retry_1793592907_Sparkle里面的山楂",
+      "name": "retry_1793592907_Sparkle里面的山楂",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/retry_1793592907_Sparkle里面的山楂.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "retry_1793592909_剧圈",
+      "name": "retry_1793592909_剧圈",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/retry_1793592909_剧圈.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "retry_1793592911_华数TV",
+      "name": "retry_1793592911_华数TV",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/retry_1793592911_华数TV.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "retry_1793592914_天寒影视",
+      "name": "retry_1793592914_天寒影视",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/retry_1793592914_天寒影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "retry_1793592916_河马短剧",
+      "name": "retry_1793592916_河马短剧",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/retry_1793592916_河马短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "retry_1793592919_浮光影视",
+      "name": "retry_1793592919_浮光影视",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/retry_1793592919_浮光影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "retry_1793592922_短剧聚合",
+      "name": "retry_1793592922_短剧聚合",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/retry_1793592922_短剧聚合.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "retry_1793592924_稀饭动漫",
+      "name": "retry_1793592924_稀饭动漫",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/retry_1793592924_稀饭动漫.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "retry_1793592927_青橙影视",
+      "name": "retry_1793592927_青橙影视",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/retry_1793592927_青橙影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "retry_1793592930_青鸟影视",
+      "name": "retry_1793592930_青鸟影视",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/retry_1793592930_青鸟影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "retry_1793592933_风尚影视",
+      "name": "retry_1793592933_风尚影视",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/retry_1793592933_风尚影视.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "retry_1793592935_[4K]下饭",
+      "name": "retry_1793592935_[4K]下饭",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/retry_1793592935_[4K]下饭.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "retry_1793592938_[4K]枫叶",
+      "name": "retry_1793592938_[4K]枫叶",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/retry_1793592938_[4K]枫叶.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_0",
+      "name": "source_0",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_0.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_1",
+      "name": "source_1",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_1.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_10",
+      "name": "source_10",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_10.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_11",
+      "name": "source_11",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_11.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_12",
+      "name": "source_12",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_12.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_13",
+      "name": "source_13",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_13.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_14",
+      "name": "source_14",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_14.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_15",
+      "name": "source_15",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_15.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_16",
+      "name": "source_16",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_16.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_17",
+      "name": "source_17",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_17.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_19",
+      "name": "source_19",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_19.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_2",
+      "name": "source_2",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_20",
+      "name": "source_20",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_20.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_21",
+      "name": "source_21",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_21.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_22",
+      "name": "source_22",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_22.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_23",
+      "name": "source_23",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_23.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_24",
+      "name": "source_24",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_24.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_25",
+      "name": "source_25",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_25.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_26",
+      "name": "source_26",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_26.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_28",
+      "name": "source_28",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_28.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_29",
+      "name": "source_29",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_29.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_3",
+      "name": "source_3",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_3.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_30",
+      "name": "source_30",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_30.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_33",
+      "name": "source_33",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_33.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_34",
+      "name": "source_34",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_34.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_35",
+      "name": "source_35",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_35.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_37",
+      "name": "source_37",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_37.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_4",
+      "name": "source_4",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_4.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_40",
+      "name": "source_40",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_40.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_41",
+      "name": "source_41",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_41.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_43",
+      "name": "source_43",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_43.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_44",
+      "name": "source_44",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_44.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_45",
+      "name": "source_45",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_45.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_46",
+      "name": "source_46",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_46.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_47",
+      "name": "source_47",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_47.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_48",
+      "name": "source_48",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_48.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_49",
+      "name": "source_49",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_49.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_5",
+      "name": "source_5",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_5.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_51",
+      "name": "source_51",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_51.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_52",
+      "name": "source_52",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_52.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_53",
+      "name": "source_53",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_53.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_58",
+      "name": "source_58",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_58.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_59",
+      "name": "source_59",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_59.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_60",
+      "name": "source_60",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_60.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_61",
+      "name": "source_61",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_61.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_62",
+      "name": "source_62",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_62.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_63",
+      "name": "source_63",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_63.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_64",
+      "name": "source_64",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_64.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_65",
+      "name": "source_65",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_65.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_67",
+      "name": "source_67",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_67.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_69",
+      "name": "source_69",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_69.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_70",
+      "name": "source_70",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_70.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_71",
+      "name": "source_71",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_71.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_72",
+      "name": "source_72",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_72.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_73",
+      "name": "source_73",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_73.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_74",
+      "name": "source_74",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_74.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_75",
+      "name": "source_75",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_75.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_8",
+      "name": "source_8",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_8.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "source_9",
+      "name": "source_9",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/source_9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "src_1",
+      "name": "src_1",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_1.py",
       "searchable": 1,
@@ -19,62 +667,8 @@
       "filterable": 1
     },
     {
-      "key": "py_2",
-      "name": "4K影视",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_2.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_3",
-      "name": "55影视",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_3.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_4",
-      "name": "8090电影网",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_4.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_5",
-      "name": "82dj",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_5.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_6",
-      "name": "DJ多多 (1)",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_6.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_9",
-      "name": "TOPTV",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_9.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_10",
-      "name": "VIP电影",
+      "key": "src_10",
+      "name": "src_10",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_10.py",
       "searchable": 1,
@@ -82,8 +676,8 @@
       "filterable": 1
     },
     {
-      "key": "py_11",
-      "name": "V视影院",
+      "key": "src_11",
+      "name": "src_11",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_11.py",
       "searchable": 1,
@@ -91,8 +685,8 @@
       "filterable": 1
     },
     {
-      "key": "py_12",
-      "name": "一起看",
+      "key": "src_12",
+      "name": "src_12",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_12.py",
       "searchable": 1,
@@ -100,8 +694,8 @@
       "filterable": 1
     },
     {
-      "key": "py_13",
-      "name": "七星短剧",
+      "key": "src_13",
+      "name": "src_13",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_13.py",
       "searchable": 1,
@@ -109,8 +703,8 @@
       "filterable": 1
     },
     {
-      "key": "py_14",
-      "name": "七猫",
+      "key": "src_14",
+      "name": "src_14",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_14.py",
       "searchable": 1,
@@ -118,8 +712,8 @@
       "filterable": 1
     },
     {
-      "key": "py_15",
-      "name": "五二",
+      "key": "src_15",
+      "name": "src_15",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_15.py",
       "searchable": 1,
@@ -127,8 +721,8 @@
       "filterable": 1
     },
     {
-      "key": "py_16",
-      "name": "八天电影",
+      "key": "src_16",
+      "name": "src_16",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_16.py",
       "searchable": 1,
@@ -136,8 +730,8 @@
       "filterable": 1
     },
     {
-      "key": "py_17",
-      "name": "八戒影视",
+      "key": "src_17",
+      "name": "src_17",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_17.py",
       "searchable": 1,
@@ -145,8 +739,8 @@
       "filterable": 1
     },
     {
-      "key": "py_18",
-      "name": "共和国动漫",
+      "key": "src_18",
+      "name": "src_18",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_18.py",
       "searchable": 1,
@@ -154,8 +748,8 @@
       "filterable": 1
     },
     {
-      "key": "py_19",
-      "name": "共青春",
+      "key": "src_19",
+      "name": "src_19",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_19.py",
       "searchable": 1,
@@ -163,8 +757,8 @@
       "filterable": 1
     },
     {
-      "key": "py_20",
-      "name": "农民影视",
+      "key": "src_20",
+      "name": "src_20",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_20.py",
       "searchable": 1,
@@ -172,8 +766,8 @@
       "filterable": 1
     },
     {
-      "key": "py_23",
-      "name": "听友音乐",
+      "key": "src_23",
+      "name": "src_23",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_23.py",
       "searchable": 1,
@@ -181,8 +775,8 @@
       "filterable": 1
     },
     {
-      "key": "py_24",
-      "name": "哈密瓜影院",
+      "key": "src_24",
+      "name": "src_24",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_24.py",
       "searchable": 1,
@@ -190,8 +784,8 @@
       "filterable": 1
     },
     {
-      "key": "py_25",
-      "name": "多多",
+      "key": "src_25",
+      "name": "src_25",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_25.py",
       "searchable": 1,
@@ -199,8 +793,8 @@
       "filterable": 1
     },
     {
-      "key": "py_27",
-      "name": "好看短剧",
+      "key": "src_27",
+      "name": "src_27",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_27.py",
       "searchable": 1,
@@ -208,8 +802,8 @@
       "filterable": 1
     },
     {
-      "key": "py_28",
-      "name": "山水影视",
+      "key": "src_28",
+      "name": "src_28",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_28.py",
       "searchable": 1,
@@ -217,8 +811,8 @@
       "filterable": 1
     },
     {
-      "key": "py_29",
-      "name": "巨量",
+      "key": "src_29",
+      "name": "src_29",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_29.py",
       "searchable": 1,
@@ -226,8 +820,8 @@
       "filterable": 1
     },
     {
-      "key": "py_30",
-      "name": "开心影院",
+      "key": "src_30",
+      "name": "src_30",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_30.py",
       "searchable": 1,
@@ -235,8 +829,8 @@
       "filterable": 1
     },
     {
-      "key": "py_31",
-      "name": "影巢",
+      "key": "src_31",
+      "name": "src_31",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_31.py",
       "searchable": 1,
@@ -244,8 +838,8 @@
       "filterable": 1
     },
     {
-      "key": "py_32",
-      "name": "搬运岛",
+      "key": "src_32",
+      "name": "src_32",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_32.py",
       "searchable": 1,
@@ -253,8 +847,8 @@
       "filterable": 1
     },
     {
-      "key": "py_33",
-      "name": "星海music",
+      "key": "src_33",
+      "name": "src_33",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_33.py",
       "searchable": 1,
@@ -262,8 +856,8 @@
       "filterable": 1
     },
     {
-      "key": "py_34",
-      "name": "星辰",
+      "key": "src_34",
+      "name": "src_34",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_34.py",
       "searchable": 1,
@@ -271,8 +865,8 @@
       "filterable": 1
     },
     {
-      "key": "py_35",
-      "name": "松果影视",
+      "key": "src_35",
+      "name": "src_35",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_35.py",
       "searchable": 1,
@@ -280,8 +874,8 @@
       "filterable": 1
     },
     {
-      "key": "py_36",
-      "name": "果果短剧",
+      "key": "src_36",
+      "name": "src_36",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_36.py",
       "searchable": 1,
@@ -289,8 +883,8 @@
       "filterable": 1
     },
     {
-      "key": "py_37",
-      "name": "柯南",
+      "key": "src_37",
+      "name": "src_37",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_37.py",
       "searchable": 1,
@@ -298,8 +892,8 @@
       "filterable": 1
     },
     {
-      "key": "py_38",
-      "name": "毒舌短剧",
+      "key": "src_38",
+      "name": "src_38",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_38.py",
       "searchable": 1,
@@ -307,8 +901,8 @@
       "filterable": 1
     },
     {
-      "key": "py_41",
-      "name": "爱看机器人",
+      "key": "src_41",
+      "name": "src_41",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_41.py",
       "searchable": 1,
@@ -316,8 +910,8 @@
       "filterable": 1
     },
     {
-      "key": "py_42",
-      "name": "玛丽影视",
+      "key": "src_42",
+      "name": "src_42",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_42.py",
       "searchable": 1,
@@ -325,8 +919,8 @@
       "filterable": 1
     },
     {
-      "key": "py_43",
-      "name": "瓜子",
+      "key": "src_43",
+      "name": "src_43",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_43.py",
       "searchable": 1,
@@ -334,8 +928,8 @@
       "filterable": 1
     },
     {
-      "key": "py_44",
-      "name": "电影猎手",
+      "key": "src_44",
+      "name": "src_44",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_44.py",
       "searchable": 1,
@@ -343,8 +937,8 @@
       "filterable": 1
     },
     {
-      "key": "py_45",
-      "name": "番茄tv",
+      "key": "src_45",
+      "name": "src_45",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_45.py",
       "searchable": 1,
@@ -352,8 +946,8 @@
       "filterable": 1
     },
     {
-      "key": "py_46",
-      "name": "盘盘侠",
+      "key": "src_46",
+      "name": "src_46",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_46.py",
       "searchable": 1,
@@ -361,8 +955,8 @@
       "filterable": 1
     },
     {
-      "key": "py_47",
-      "name": "看看鸭",
+      "key": "src_47",
+      "name": "src_47",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_47.py",
       "searchable": 1,
@@ -370,8 +964,8 @@
       "filterable": 1
     },
     {
-      "key": "py_48",
-      "name": "短剧",
+      "key": "src_48",
+      "name": "src_48",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_48.py",
       "searchable": 1,
@@ -379,8 +973,17 @@
       "filterable": 1
     },
     {
-      "key": "py_51",
-      "name": "糯米短剧",
+      "key": "src_5",
+      "name": "src_5",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_5.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "src_51",
+      "name": "src_51",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_51.py",
       "searchable": 1,
@@ -388,8 +991,8 @@
       "filterable": 1
     },
     {
-      "key": "py_52",
-      "name": "红果影视",
+      "key": "src_52",
+      "name": "src_52",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_52.py",
       "searchable": 1,
@@ -397,8 +1000,8 @@
       "filterable": 1
     },
     {
-      "key": "py_53",
-      "name": "耐看点播",
+      "key": "src_53",
+      "name": "src_53",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_53.py",
       "searchable": 1,
@@ -406,8 +1009,8 @@
       "filterable": 1
     },
     {
-      "key": "py_54",
-      "name": "芭蕉剧场",
+      "key": "src_54",
+      "name": "src_54",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_54.py",
       "searchable": 1,
@@ -415,8 +1018,8 @@
       "filterable": 1
     },
     {
-      "key": "py_55",
-      "name": "课堂",
+      "key": "src_55",
+      "name": "src_55",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_55.py",
       "searchable": 1,
@@ -424,8 +1027,8 @@
       "filterable": 1
     },
     {
-      "key": "py_56",
-      "name": "迷你影视(1)",
+      "key": "src_56",
+      "name": "src_56",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_56.py",
       "searchable": 1,
@@ -433,8 +1036,8 @@
       "filterable": 1
     },
     {
-      "key": "py_57",
-      "name": "迷你影视",
+      "key": "src_57",
+      "name": "src_57",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_57.py",
       "searchable": 1,
@@ -442,8 +1045,8 @@
       "filterable": 1
     },
     {
-      "key": "py_58",
-      "name": "速搜",
+      "key": "src_58",
+      "name": "src_58",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_58.py",
       "searchable": 1,
@@ -451,8 +1054,8 @@
       "filterable": 1
     },
     {
-      "key": "py_59",
-      "name": "闪电影视",
+      "key": "src_59",
+      "name": "src_59",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_59.py",
       "searchable": 1,
@@ -460,8 +1063,26 @@
       "filterable": 1
     },
     {
-      "key": "py_63",
-      "name": "飞快",
+      "key": "src_6",
+      "name": "src_6",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_6.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "src_62",
+      "name": "src_62",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_62.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "src_63",
+      "name": "src_63",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_63.py",
       "searchable": 1,
@@ -469,8 +1090,8 @@
       "filterable": 1
     },
     {
-      "key": "py_64",
-      "name": "饭搭子",
+      "key": "src_64",
+      "name": "src_64",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_64.py",
       "searchable": 1,
@@ -478,8 +1099,8 @@
       "filterable": 1
     },
     {
-      "key": "py_65",
-      "name": "首映网",
+      "key": "src_65",
+      "name": "src_65",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_65.py",
       "searchable": 1,
@@ -487,8 +1108,8 @@
       "filterable": 1
     },
     {
-      "key": "py_66",
-      "name": "鬼片之家",
+      "key": "src_66",
+      "name": "src_66",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_66.py",
       "searchable": 1,
@@ -496,8 +1117,8 @@
       "filterable": 1
     },
     {
-      "key": "py_67",
-      "name": "麦田影院",
+      "key": "src_67",
+      "name": "src_67",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_67.py",
       "searchable": 1,
@@ -505,8 +1126,8 @@
       "filterable": 1
     },
     {
-      "key": "py_68",
-      "name": "黑夜影院",
+      "key": "src_68",
+      "name": "src_68",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_68.py",
       "searchable": 1,
@@ -514,8 +1135,8 @@
       "filterable": 1
     },
     {
-      "key": "py_69",
-      "name": "黑猫动漫",
+      "key": "src_69",
+      "name": "src_69",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_69.py",
       "searchable": 1,
@@ -523,8 +1144,8 @@
       "filterable": 1
     },
     {
-      "key": "py_71",
-      "name": "[4K]云播",
+      "key": "src_71",
+      "name": "src_71",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_71.py",
       "searchable": 1,
@@ -532,8 +1153,8 @@
       "filterable": 1
     },
     {
-      "key": "py_72",
-      "name": "[4K]咕噜",
+      "key": "src_72",
+      "name": "src_72",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_72.py",
       "searchable": 1,
@@ -541,8 +1162,8 @@
       "filterable": 1
     },
     {
-      "key": "py_73",
-      "name": "[4K]影探",
+      "key": "src_73",
+      "name": "src_73",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_73.py",
       "searchable": 1,
@@ -550,8 +1171,8 @@
       "filterable": 1
     },
     {
-      "key": "py_75",
-      "name": "[4K]河豚",
+      "key": "src_75",
+      "name": "src_75",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_75.py",
       "searchable": 1,
@@ -559,10 +1180,28 @@
       "filterable": 1
     },
     {
-      "key": "py_76",
-      "name": "[4K]片帝",
+      "key": "src_76",
+      "name": "src_76",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_76.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "src_9",
+      "name": "src_9",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/src_9.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ᵀ⁴TT",
+      "name": "ᵀ⁴TT",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/t4tt.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -586,5 +1225,5 @@
       "filterable": 1
     }
   ],
-  "warningText": "部分源来自网络收集，仅供学习交流"
+  "warningText": "分享自用，禁倒卖"
 }
