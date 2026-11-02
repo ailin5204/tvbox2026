@@ -10,6 +10,15 @@
       "filterable": 1
     },
     {
+      "key": "py_72",
+      "name": "[4K]咕噜",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_72.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "py_76",
       "name": "[4K]片帝",
       "type": 3,
@@ -23,15 +32,6 @@
       "name": "[4K]下饭",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_70.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_72",
-      "name": "[4K]咕噜",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_72.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
