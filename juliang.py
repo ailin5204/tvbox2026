@@ -1,22 +1,4 @@
 # -*- coding: utf-8 -*-
-import sys
-import ssl
-
-# 1. 强制 UTF-8 编码，防中文报错
-if sys.version_info[0] >= 3:
-    try:
-        sys.stdout.reconfigure(encoding='utf-8')
-        sys.stderr.reconfigure(encoding='utf-8')
-    except Exception:
-        pass
-
-# 2. 忽略 SSL 证书校验，防电视系统证书过期导致网络请求失败
-try:
-    ssl._create_default_https_context = ssl._create_unverified_context
-except Exception:
-    pass
-
-# ----------------- 兼容补丁结束 -----------------
 """
 巨量资源 - https://juliang.app (资源站 2.0, AppleCMS V10 JSON 采集接口)
 接口: https://api.juliang.live/api/provide/vod/  (ac=detail/ac=list, t=分类, wd=搜索, pg=页码, h=最近小时)
