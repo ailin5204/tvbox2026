@@ -1,6 +1,87 @@
 {
   "sites": [
     {
+      "key": "py_2",
+      "name": "4K影视",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_70",
+      "name": "[4K]下饭",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_70.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_71",
+      "name": "[4K]云播",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_71.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_72",
+      "name": "[4K]咕噜",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_72.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_73",
+      "name": "[4K]影探",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_73.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_74",
+      "name": "[4K]枫叶",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_74.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_75",
+      "name": "[4K]河豚",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_75.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_76",
+      "name": "[4K]片帝",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_76.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_77",
+      "name": "ᵀ⁴TT",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_77.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "lzi",
       "name": "量子资源",
       "type": 1,
@@ -28,15 +109,6 @@
       "filterable": 1
     },
     {
-      "key": "py_2",
-      "name": "4K影视",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_2.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "py_3",
       "name": "55影视",
       "type": 3,
@@ -59,15 +131,6 @@
       "name": "82dj",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_5.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_6",
-      "name": "DJ多多 (1)",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_6.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -127,15 +190,6 @@
       "filterable": 1
     },
     {
-      "key": "py_13",
-      "name": "七星短剧",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_13.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "py_14",
       "name": "七猫",
       "type": 3,
@@ -167,15 +221,6 @@
       "name": "八戒影视",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_17.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_18",
-      "name": "共和国动漫",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_18.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -217,15 +262,6 @@
       "filterable": 1
     },
     {
-      "key": "py_23",
-      "name": "听友音乐",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_23.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "py_24",
       "name": "哈密瓜影院",
       "type": 3,
@@ -235,28 +271,10 @@
       "filterable": 1
     },
     {
-      "key": "py_25",
-      "name": "多多",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_25.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "py_26",
       "name": "天寒影视",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_26.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_27",
-      "name": "好看短剧",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_27.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -334,28 +352,10 @@
       "filterable": 1
     },
     {
-      "key": "py_36",
-      "name": "果果短剧",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_36.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "py_37",
       "name": "柯南",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_37.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_38",
-      "name": "毒舌短剧",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_38.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -433,42 +433,6 @@
       "filterable": 1
     },
     {
-      "key": "py_48",
-      "name": "短剧",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_48.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_49",
-      "name": "短剧聚合",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_49.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_50",
-      "name": "稀饭动漫",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_50.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_51",
-      "name": "糯米短剧",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_51.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "py_52",
       "name": "红果影视",
       "type": 3,
@@ -491,15 +455,6 @@
       "name": "芭蕉剧场",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_54.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_55",
-      "name": "课堂",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_55.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -620,115 +575,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "py_69",
-      "name": "黑猫动漫",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_69.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_70",
-      "name": "[4K]下饭",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_70.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_71",
-      "name": "[4K]云播",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_71.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_72",
-      "name": "[4K]咕噜",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_72.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_73",
-      "name": "[4K]影探",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_73.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_74",
-      "name": "[4K]枫叶",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_74.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_75",
-      "name": "[4K]河豚",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_75.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_76",
-      "name": "[4K]片帝",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_76.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_77",
-      "name": "ᵀ⁴TT",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox_share_new@main/source_77.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "ffzy",
-      "name": "非凡资源",
-      "type": 1,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "wolong",
-      "name": "卧龙资源",
-      "type": 1,
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "tiankong",
-      "name": "天空资源",
-      "type": 1,
-      "api": "https://api.tiankongapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     }
   ],
-  "warningText": "网络收集，仅供学习测试"
+  "warningText": "极简优化版：4K置顶，过滤了冗余短剧/音乐源"
 }
