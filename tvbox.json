@@ -67,7 +67,7 @@
       "key": "py_44063221",
       "name": "Sparkle里面的山楂",
       "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/Sparkle%E9%87%8C%E9%9D%A2%E7%9A%84%E5%B1%B1%E6%A5%82.py",
+      "api": "file:///sdcard/TVBox_Local/Sparkle里面的山楂.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
