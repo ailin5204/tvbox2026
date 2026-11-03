@@ -1,64 +1,226 @@
 {
   "sites": [
     {
-      "key": "py_4k_xiafan",
-      "name": "4K丨下饭",
+      "key": "py_339366",
+      "name": "Sparkle里面的山楂",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/ailin5204/tvbox2026/main/4K%E4%B8%8B%E9%A5%AD.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/Sparkle%E9%87%8C%E9%9D%A2%E7%9A%84%E5%B1%B1%E6%A5%82.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "py_4k_gulu",
-      "name": "4K丨咕噜",
+      "key": "py_290329",
+      "name": "[4K]下饭",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/ailin5204/tvbox2026/main/4K%E5%92%95%E5%99%9C.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%5B4K%5D%E4%B8%8B%E9%A5%AD.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "py_4k_fengye",
-      "name": "4K丨枫叶",
+      "key": "py_850270",
+      "name": "[4K]云播",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/ailin5204/tvbox2026/main/4K%E6%9E%AB%E5%8F%B6.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%5B4K%5D%E4%BA%91%E6%92%AD.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "py_4k_hetun",
-      "name": "4K丨河豚",
+      "key": "py_377802",
+      "name": "[4K]咕噜",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/ailin5204/tvbox2026/main/4K%E6%B2%B3%E8%B1%9A.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%5B4K%5D%E5%92%95%E5%99%9C.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "py_4k_piandi",
-      "name": "4K丨片帝",
+      "key": "py_613107",
+      "name": "[4K]影探",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/ailin5204/tvbox2026/main/4K%E7%89%87%E5%B8%9D.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%5B4K%5D%E5%BD%B1%E6%8E%A2.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "py_guazi",
-      "name": "瓜子",
+      "key": "py_981980",
+      "name": "[4K]枫叶",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/ailin5204/tvbox2026/main/%E7%93%9C%E5%AD%90.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%5B4K%5D%E6%9E%AB%E5%8F%B6.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "py_tt",
+      "key": "py_021840",
+      "name": "[4K]河豚",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%5B4K%5D%E6%B2%B3%E8%B1%9A.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_874134",
+      "name": "[4K]片帝",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%5B4K%5D%E7%89%87%E5%B8%9D.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_875085",
+      "name": "咕噜咕噜4K",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%E5%92%95%E5%99%9C%E5%92%95%E5%99%9C4K.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_175936",
+      "name": "巨量",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%E5%B7%A8%E9%87%8F.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_406655",
+      "name": "影探",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%E5%BD%B1%E6%8E%A2.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_738398",
+      "name": "搬运岛",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%E6%90%AC%E8%BF%90%E5%B2%9B.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_733822",
+      "name": "真狼影视",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%E7%9C%9F%E7%8B%BC%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_237217",
       "name": "TT",
       "type": 3,
-      "api": "https://raw.githubusercontent.com/ailin5204/tvbox2026/main/TT.py",
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/TT.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "lzi",
+      "name": "量子资源",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wujin",
+      "name": "无尽资源",
+      "type": 1,
+      "api": "https://api.wujinapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "p2100",
+      "name": "飘零资源",
+      "type": 1,
+      "api": "https://p2100.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ffzy",
+      "name": "非凡资源",
+      "type": 1,
+      "api": "https://api.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "apibdzy",
+      "name": "百度资源",
+      "type": 1,
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dyttzyw",
+      "name": "电影天堂",
+      "type": 1,
+      "api": "http://dyttzyw.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "woog1",
+      "name": "Woog资源",
+      "type": 1,
+      "api": "https://woog.430520.xyz/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "woog2",
+      "name": "Woog备用",
+      "type": 1,
+      "api": "https://woog.nxog.eu.org/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "tyyszy",
+      "name": "太阳资源",
+      "type": 1,
+      "api": "https://tyyszy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "zuid",
+      "name": "最大资源",
+      "type": 1,
+      "api": "https://api.zuidapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "dyttzy2",
+      "name": "电影天堂②",
+      "type": 1,
+      "api": "https://caiji.dyttzyapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
