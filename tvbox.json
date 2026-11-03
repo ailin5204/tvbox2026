@@ -37,15 +37,6 @@
       "filterable": 1
     },
     {
-      "key": "py_613107",
-      "name": "[4K]影探",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%5B4K%5D%E5%BD%B1%E6%8E%A2.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "py_981980",
       "name": "[4K]枫叶",
       "type": 3,
@@ -86,15 +77,6 @@
       "name": "巨量",
       "type": 3,
       "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%E5%B7%A8%E9%87%8F.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "py_406655",
-      "name": "影探",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%E5%BD%B1%E6%8E%A2.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
