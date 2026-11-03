@@ -125,6 +125,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "py_guazi",
+      "name": "瓜子",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/ailin5204/tvbox2026@main/%E7%93%9C%E5%AD%90.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "warningText": "仅供学习",
